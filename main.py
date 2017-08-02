@@ -10,6 +10,7 @@ def makeSurf(N):
     surf=np.reshape(surf,(N,N))
     return surf
 
+### Test
 ###Simple implementation###
     
 def check_Ag_O_config(i,j,array):
