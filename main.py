@@ -11,6 +11,7 @@ def makeSurf(N):
     return surf
 
 ###Simple implementation###
+### Test ###
     
 def check_Ag_O_config(i,j,array):
     E=0
